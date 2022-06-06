@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hello👋
+### Welcome to my profile
 
+studying ...   
+I'm not proud since I'm just a rookie ... 
+
+- daily💬：Chat with friends and overcome difficulties together ... 
+- hobby😄：Eat, sleep, play games and write code ... 
+- direction🤔：Safe, Reverse, Unity3d
+- email📫：xiaoqiu.club@foxmail.com
 <!--
 **Happyboy236/Happyboy236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
